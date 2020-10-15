@@ -1,12 +1,12 @@
 # Guión de la actividad denominada "Evaluación de las categorías de amenaza de especies de la UICN"
 
 
-> + **_Versión_**: 2019-2020.
+> + **_Versión_**: 2020-2021.
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 1 hora.
 
-
+prueba git
 
 ## Objetivos 
 
