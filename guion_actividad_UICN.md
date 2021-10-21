@@ -10,7 +10,7 @@
 
 ## Objetivos 
 
-En esta guía se describe un ejercicio cuyo objetivo es que los estudiantes relacionen los conceptos de ecología de poblaciones vistos en la sesión [teórica](https://aprendiendo-cosas.github.io/Te_poblaciones_ecologia_ccaa/guion_poblaciones_general.html), con las categorías de especies amenazadas creadas por la UICN. Mediante este ejercicio se espera que los alumnos identifiquen qué conceptos de la ecología de poblaciones están presentes en las categorías de la UICN. Asimismo se persigue que identifiquen (y expliquen) posibles incongruencias o ausencias en las categorías de amenaza.
+En esta guía se describe un ejercicio cuyo objetivo es que los estudiantes relacionen los conceptos de ecología de poblaciones vistos en la sesión [teórica](https://zenodo.org/record/5588815/files/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa-2020-2021.zip?download=1), con las categorías de especies amenazadas creadas por la UICN. Mediante este ejercicio se espera que los alumnos identifiquen qué conceptos de la ecología de poblaciones están presentes en las categorías de la UICN. Asimismo se persigue que identifiquen (y expliquen) posibles incongruencias o ausencias en las categorías de amenaza.
 
 De manera más específica, esto es lo que han de aprender los alumnos con esta tarea:
 + Reflexionar sobre cómo los descriptores teóricos de las poblaciones ecológicas se aplican a la conservación de la biodiversidad.
@@ -20,22 +20,16 @@ De manera más específica, esto es lo que han de aprender los alumnos con esta 
 
  ## Instrucciones
 
-En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una serie de criterios para catalogar las especies en función de su grado de amenaza. [Aquí](https://github.com/fjbonet/categorias_amenaza_especies/raw/master/biblio/redlist_cats_crit_sp.pdf) podéis ver la guía de la UICN. En la misma se observa cómo los criterios relacionados con el área de distribución de las especies tienen un peso importante al definir las categorías más estrictas (en peligro crítico, extinta, etc.). 
+En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una serie de criterios para catalogar las especies en función de su grado de amenaza. [Aquí](https://github.com/fjbonet/categorias_amenaza_especies/raw/2020-2021/biblio/redlist_cats_crit_sp.pdf) podéis ver la guía de la UICN. En la misma se observa cómo los criterios relacionados con el área de distribución de las especies tienen un peso importante al definir las categorías más estrictas (en peligro crítico, extinta, etc.). 
 
 Los tres documentos anexos a esta tarea describen el estado de dos especies catalogadas como en peligro de extinción en España. En ellos se describe el estado demográfico de sus poblaciones en el pirineo español:
-+ [Seguimiento demográfico y estado de conservación de  y *Cypripedium calceolus* (Zapatito de la dama)](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/biblio/borderea_chouardii.pdf)
++ [Seguimiento demográfico y estado de conservación de  y *Cypripedium calceolus* (Zapatito de la dama)](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2020-2021/biblio/borderea_chouardii.pdf)
 
-+ [Living at the Edge: local versus positional factors in the long -term population dynamics of an endangered orchid](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/biblio/cypripedium_calceolus.pdf)
++ [Living at the Edge: local versus positional factors in the long -term population dynamics of an endangered orchid](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2020-2021/biblio/cypripedium_calceolus.pdf)
 
 + [El lado oculto de la rareza: no es tan raro ser raro](http://blog.creaf.cat/es/coneixement/el-lado-oculto-de-la-rareza/)
 
 Debes leer los tres artículos (no es necesario que prestes mucha atención a la metodología) y reflexionar sobre los resultados que obtienen los autores. ¿crees que la catalogación como especies amenazadas está alineada con el estado demográfico de sus poblaciones? ¿Crees que hay algún sesgo en los criterios de la UICN que justifique tu respuesta a la pregunta anterior?
-
-**QUITAR LA PALABRA CREES DE LAS PREGUNTAS. REFORMULAR LAS PREGUNTAS PARA QUE NO QUEDEN DUDAS. ESO DE ALINEAR NO TIENE SENTIDO.**
-
-
-
-**reformular la primera pregunta. no se entiende bien así. catalogación vs demografía. indicar que la pregunta se refiere a las especies en cuestión**
 
 Responde a ambas preguntas en un texto que ocupe una cara de un A4 como máximo. Sube al Moodle un archivo en formato Word o LibreOffice. Pon especial atención en la redacción y en la justificación de tus respuestas. Añade las referencias bibliográficas que hayas usado para sustentar tu reflexión.
 
