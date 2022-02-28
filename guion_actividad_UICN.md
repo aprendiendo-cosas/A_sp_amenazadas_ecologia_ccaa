@@ -36,7 +36,7 @@ Debes leer los tres artículos (no es necesario que prestes mucha atención a la
 
 Responde a ambas preguntas en un texto que ocupe una cara de un A4 como máximo. Sube [aquí](https://www.turnitin.com/t_submit.asp?r=93.0670108258504&svr=57&lang=es&aid=118302962) (Turnitin) un archivo en formato Word o LibreOffice. Pon especial atención en la redacción y en la justificación de tus respuestas. Añade las referencias bibliográficas que hayas usado para sustentar tu reflexión.
 
-Cuando haya concluido el plazo para enviar esta tarea, las revisaré y las devolveré con anotaciones. Después tendrás otra oportunidad para mejorar el texto. En esta segunda iteración obtendrás la calificación definitiva. Esta forma de evaluación pretende que percibas cómo tu trabajo mejora con críticas constructivas. Ambas versiones serán evaluadas según los criterios de la rúbrica anexa a la tarea.
+Cuando haya concluido el plazo para enviar esta tarea, las revisaré y las devolveré con anotaciones. Después tendrás otra oportunidad para mejorar el texto. En esta segunda iteración obtendrás la calificación definitiva. Sube esa segunda versión [aquí](https://www.turnitin.com/t_submit.asp?r=62.7020962414033&svr=41&lang=es&aid=118329988). Esta forma de evaluación pretende que percibas cómo tu trabajo mejora con críticas constructivas. Ambas versiones serán evaluadas según los criterios de la rúbrica anexa a la tarea.
 
 
 
