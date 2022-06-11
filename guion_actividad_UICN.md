@@ -20,12 +20,12 @@ De manera más específica, esto es lo que han de aprender los alumnos con esta 
 
  ## Instrucciones
 
-En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una serie de criterios para catalogar las especies en función de su grado de amenaza. [Aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021-2022/biblio/redlist_cats_crit_sp.pdf) podéis ver la guía de la UICN. En la misma se observa cómo los criterios relacionados con el área de distribución de las especies tienen un peso importante al definir las categorías más estrictas (en peligro crítico, extinta, etc.). 
+En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una serie de criterios para catalogar las especies en función de su grado de amenaza. [Aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021__2022/biblio/redlist_cats_crit_sp.pdf) podéis ver la guía de la UICN. En la misma se observa cómo los criterios relacionados con el área de distribución de las especies tienen un peso importante al definir las categorías más estrictas (en peligro crítico, extinta, etc.). 
 
 Los tres documentos anexos a esta tarea describen el estado de dos especies catalogadas como en peligro de extinción en España. En ellos se describe el estado demográfico de sus poblaciones en el pirineo español:
-+ [Seguimiento demográfico y estado de conservación de  y *Cypripedium calceolus* (Zapatito de la dama)](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021-2022/biblio/borderea_chouardii.pdf)
++ [Seguimiento demográfico y estado de conservación de  y *Cypripedium calceolus* (Zapatito de la dama)](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021__2022/biblio/borderea_chouardii.pdf)
 
-+ [Living at the Edge: local versus positional factors in the long -term population dynamics of an endangered orchid](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021-2022/biblio/cypripedium_calceolus.pdf)
++ [Living at the Edge: local versus positional factors in the long -term population dynamics of an endangered orchid](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021__2022/biblio/cypripedium_calceolus.pdf)
 
 + [El lado oculto de la rareza: no es tan raro ser raro](http://blog.creaf.cat/es/coneixement/el-lado-oculto-de-la-rareza/)
 
