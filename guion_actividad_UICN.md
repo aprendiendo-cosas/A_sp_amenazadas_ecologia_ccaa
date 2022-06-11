@@ -1,7 +1,7 @@
 # Guión de la actividad denominada "Evaluación de las categorías de amenaza de especies de la UICN"
 
 
-> + **_Versión_**: 2020-2021
+> + **_Versión_**: 2021-2022
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 1 hora.
@@ -31,7 +31,7 @@ Los tres documentos anexos a esta tarea describen el estado de dos especies cata
 
 Debes leer los tres artículos (no es necesario que prestes mucha atención a la metodología) y reflexionar sobre los resultados que obtienen los autores. Luego contesta a las siguientes preguntas para cada una de las especies:
 
-- ¿Consideras que la catalogación con el grado de ameneaza que tienen se ajusta bien con el estado demográfico de sus poblaciones? En caso negativo, ¿A qué se puede deber la discrepancia observada?
+- ¿Consideras que la catalogación con el grado de amenaza que tienen se ajusta bien con el estado demográfico de sus poblaciones? En caso negativo, ¿A qué se puede deber la discrepancia observada?
 - ¿Piensas que hay algún sesgo en los criterios de la UICN que justifique tu respuesta a la pregunta anterior?
 
 Responde a ambas preguntas en un texto que ocupe una cara de un A4 como máximo. Sube [aquí](https://www.turnitin.com/t_submit.asp?r=93.0670108258504&svr=57&lang=es&aid=118302962) (Turnitin) un archivo en formato Word o LibreOffice. Pon especial atención en la redacción y en la justificación de tus respuestas. Añade las referencias bibliográficas que hayas usado para sustentar tu reflexión.
