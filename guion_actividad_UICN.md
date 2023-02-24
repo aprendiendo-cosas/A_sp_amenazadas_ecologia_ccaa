@@ -4,7 +4,7 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 1 hora.
+> + **Duración**: Aproximadamente 2 horas de trabajo individual.
 
 
 
@@ -28,35 +28,33 @@ En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una 
 
 ![cypripedium](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/imagenes/cypripedium.jpg)
 
-Foto tomada de: https://www.orquideasibericas.info/
+*Foto tomada de: https://www.orquideasibericas.info/*
 
-El "zapatito de la dama" tiene un área de distribución bastante amplia en todo el planeta. Puedes verlo en el mapa abajo:
+El "zapatito de la dama" tiene un área de distribución bastante amplia en todo el planeta. Puedes verlo en este mapa:
 
 ![mapa](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/imagenes/mapa.png)
 
-Mapa de distribución de *Cypripedium calceolus* obtenido a partir de [GBIF](https://www.gbif.org/species/2820517)
+*Mapa de distribución de Cypripedium calceolus obtenido a partir de [GBIF](https://www.gbif.org/species/2820517)*
 
 
 
-Como puedes ver su área de distribución es amplísima. Ocupa una parte importante de centroeuropa (Alpes) y se extiende hasta el este de Asia y el este de Norteamérica. 
+Como puedes ver su área de distribución es amplísima. Ocupa una parte importante de Centroeuropa (Alpes) y se extiende hasta el este de Asia y el este de Norteamérica. 
 
-Lo que nos interesa aquí de esta especie es que en España está considerada como en peligro de extinción. El gobierno aragonés (que es donde están la mayoría de sus poblaciones) catalogó esta especie usando los criterios de la UICN y le asignó la categoría anterior (aquí puedes ver el informe que elaboró en 2004). Sin embargo
+Lo que nos interesa aquí de esta especie es que en España está considerada como "en peligro de extinción". El gobierno aragonés (que es donde están la mayoría de sus poblaciones) catalogó esta especie usando los criterios de la UICN y le asignó la categoría anterior ([aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/biblio/cypripedium_calceolus.pdf) puedes ver el informe que elaboró para justificar la decisión). Sin embargo, a escala internacional esta especie se considera como "no amenazada" según las mismas categorías de la UICN. Esta aparente contradicción (¿cómo es posible que una misma especie esté amenazada en un lugar pero libre de peligro a escala global?) ofrece la oportunidad de explorar las limitaciones de los criterios de amenaza de la UICN. En concreto trabajaremos con dos componentes de esta contradicción:
 
-Los tres documentos anexos a esta tarea describen el estado de dos especies catalogadas como en peligro de extinción en España. En ellos se describe el estado demográfico de sus poblaciones en el pirineo español:
-+ [Seguimiento demográfico y estado de conservación de *Borderea chouardii* y *Cypripedium calceolus* (Zapatito de la dama)](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021__2022/biblio/borderea_chouardii.pdf)
++ Vivir al límite: Las áreas de distribución de las especies se pueden definir como las zonas del planeta que reúnen las condiciones adecuadas para su supervivencia. Las condiciones más obvias son las climáticas. Por ejemplo, las especies que necesitan temperaturas suaves y mucha agua para vivir, solo se encontrarán en las áreas geográficas que tengan este clima. El conjunto de condiciones ambientales que necesita una especie para vivir se denomina [nicho ecológico](https://es.wikipedia.org/wiki/Nicho_ecol%C3%B3gico). De alguna forma el área de distribución de una especie es parecido a la proyección geográfica del nicho ecológico. Resulta que en los "bordes" del área de distribución de una especie las condiciones ambientales no son tan buenas (en teoría) como en la zona más central. En España, nuestra especie objetivo se encuentra en el límite sur de su área de distribución. Según lo dicho anteriormente, es de esperar que las plantas que viven aquí tengan dinámicas poblacionales menos eficaces que las del centro de Europa. [Este](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/biblio/viviendo_en_el_limite.pdf) artículo describe el estado demográfico de las representantes españolas de esta especie. Leélo con atención (sobre todo el abstract y la discusión). 
++ Las categorías de amenaza requieren una escala espacial de aplicación: En teoría vimos cómo el área de distribución era un concepto un poco escurridizo. ¿Forman todos los individuos de *Cypripedium calceolus* del mundo parte de la misma población?. Si no es así, ¿dónde ponemos el límite?. El Gobierno de Aragón considera que el límite está en donde acaban sus competencias. Es decir, define un límite administrativo. Asigna una categoría de amenaza a todas las especies que hay dentro de su territorio. El gobierno catalán (donde también se encuentra esta especie) hace lo mismo. Y el español asigna una categoría de amenaza a nuestra especie en España usando sus límites administrativos. Al hacer esto estamos asumiendo que los límites de las poblaciones de las especies coinciden con los límites administrativos. Esto no parece muy sensato porque las especies no entienden de límites administrativos...
 
-+ [Living at the Edge: local versus positional factors in the long -term population dynamics of an endangered orchid](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021__2022/biblio/cypripedium_calceolus.pdf)
+Imagino que ahora mismo estarás un poco perdido/a y preguntándote qué hay que hacer en este ejercicio. No temas, ahora vienen las preguntas.
 
-+ [El lado oculto de la rareza: no es tan raro ser raro](http://blog.creaf.cat/es/coneixement/el-lado-oculto-de-la-rareza/)
+Teniendo en cuenta lo descrito más arriba y combinándolo con el concepto de metapoblación que hemos visto en clase, tienes que escribir un texto de unas dos páginas que aborde los siguientes aspectos:
 
-Debes leer los tres artículos (no es necesario que prestes mucha atención a la metodología) y reflexionar sobre los resultados que obtienen los autores. Luego contesta a las siguientes preguntas para cada una de las especies:
++ Justificar porqué *Cypripedium calceolus* tiene la categoría de amenaza de "en peligro de extinción" en España.
++ Proponer una alternativa a la asignación de categorías de amenaza usando límites administrativos como sustitutos (malos) de áreas de distribución de poblaciones. Quizás [este](https://blog.creaf.cat/es/coneixement/el-lado-oculto-de-la-rareza/) artículo te inspire.
 
-- ¿Consideras que la catalogación con el grado de amenaza que tienen se ajusta bien con el estado demográfico de sus poblaciones? En caso negativo, ¿A qué se puede deber la discrepancia observada?
-- ¿Piensas que hay algún sesgo en los criterios de la UICN que justifique tu respuesta a la pregunta anterior?
+Sube el texto [aquí](https://www.turnitin.com/t_submit.asp?r=93.0670108258504&svr=57&lang=es&aid=118302962) (Turnitin) en formato Word o LibreOffice. Pon especial atención en la redacción y en la justificación de tus respuestas. Añade las referencias bibliográficas que hayas usado para sustentar tu reflexión.
 
-Responde a ambas preguntas en un texto que ocupe una cara de un A4 como máximo. Sube [aquí](https://www.turnitin.com/t_submit.asp?r=93.0670108258504&svr=57&lang=es&aid=118302962) (Turnitin) un archivo en formato Word o LibreOffice. Pon especial atención en la redacción y en la justificación de tus respuestas. Añade las referencias bibliográficas que hayas usado para sustentar tu reflexión.
-
-Cuando haya concluido el plazo para enviar esta tarea, las revisaré y las devolveré con anotaciones. Después tendrás otra oportunidad para mejorar el texto. En esta segunda iteración obtendrás la calificación definitiva. Sube esa segunda versión [aquí](https://www.turnitin.com/t_submit.asp?r=62.7020962414033&svr=41&lang=es&aid=118329988). Esta forma de evaluación pretende que percibas cómo tu trabajo mejora con críticas constructivas. Ambas versiones serán evaluadas según los criterios de la rúbrica anexa a la tarea.
+Cuando haya concluido el plazo para enviar esta tarea (6 de marzo), las revisaré y las devolveré con anotaciones. Después tendrás otra oportunidad para mejorar el texto. En esta segunda iteración obtendrás la calificación definitiva. Sube esa segunda versión [aquí](https://www.turnitin.com/t_submit.asp?r=62.7020962414033&svr=41&lang=es&aid=118329988). Esta forma de evaluación pretende que percibas cómo tu trabajo mejora con críticas constructivas. Ambas versiones serán evaluadas según los criterios de la rúbrica anexa a la tarea.
 
 
 
@@ -64,13 +62,7 @@ Cuando haya concluido el plazo para enviar esta tarea, las revisaré y las devol
 
 Las rúbricas se usan para cuantificar mejor los objetivos de aprendizaje de un acto docente. Analízala con detalle para saber cuáles serán los criterios que usaré en la evaluación del material que presentes.
 
-| Criterio de evaluación                                       | 0 puntos                 | 1 punto                                                      | 2 puntos                                                     | 3 puntos                                                     | 4 puntos                                                     | 5 puntos                                                     |
-| ------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Contenido**: El texto ha de recoger la respuesta a las preguntas formuladas en las instrucciones. | No entiendo nada         | Hay algún concepto, pero no está bien descrito.              | Ha plasmado en el texto alguna de las ideas de los documentos, pero no están conectados. | Están los ingredientes y algo de reflexión acertada sobre las preguntas. | Bien hilado el contenido. Has identificado muy bien el problema al que me refería en el enunciado. | Muy bien argumentado. Has justificado muy bien tu respuesta. Tu reflexión está a la altura de un experto. |
-| **Redacción**: La redacción debe de ser fluida. Frases bien construidas y ortografía aceptable. | El texto no se entiende. | He tenido que leerlo varias veces para poder interpretar lo que querías decir. Muchos errores gramaticales y ortográficos. | La redacción es mejorable, pero se entiende. Muchos fallos gramaticales y ortográficos. | Buena redacción aunque algo aburrida. Sin fallos destacables. | Muy buena redacción. El texto se lee fluidamente a la primera. | Excelente redacción. Buen ritmo en el texto y nítida expresión de ideas. Avísame cuando escribas tu primer libro ;) |
-| **Mejoras:** Aquí se valorarán las mejoras que hayas incluido más allá de lo explícitamente indicado en las instrucciones. | No hay ninguna mejora.   |                                                              | Has incluido únicamente referencias a los documentos consultados. | Además, el texto está formateado con cierto cuidado.         |                                                              | Además has añadido una figura o un esquema hecho por ti. O has incluido nuevas referencias |
 
 
-
-
+![mapa](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/imagenes/mapa.png)
 
