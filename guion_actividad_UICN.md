@@ -1,7 +1,7 @@
 # Guión de la actividad denominada "Evaluación de las categorías de amenaza de especies de la UICN"
 
 
-> + **_Versión_**: 2021-2022
+> + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 1 hora.
@@ -10,20 +10,36 @@
 
 ## Objetivos 
 
-En esta guía se describe un ejercicio cuyo objetivo es que los estudiantes relacionen los conceptos de ecología de poblaciones vistos en la sesión [teórica](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2021_2022/guion_poblaciones_general.html), con las categorías de especies amenazadas creadas por la UICN. Mediante este ejercicio se espera que los alumnos identifiquen qué conceptos de la ecología de poblaciones están presentes en las categorías de la UICN. Asimismo se persigue que identifiquen (y expliquen) posibles incongruencias o carencias en las categorías de amenaza.
+La finalidad última de este ejercicio es que entrenes tu capacidad para discurrir y criticar constructivamente los conceptos teóricos que vemos en clase. En este caso trabajaremos con los criterios de amenaza de especies diseñados por la UICN. 
 
-De manera más específica, esto es lo que han de aprender los alumnos con esta tarea:
+Los objetivos específicos de aprendizaje son:
 + Reflexionar sobre cómo los descriptores teóricos de las poblaciones ecológicas se aplican a la conservación de la biodiversidad.
 + Leer con espíritu crítico informes y artículos científicos.
 + Relacionar conceptos existentes en artículos científicos con conceptos vistos explícitamente en clase.
-+ Mejorar su capacidad de relación y de expresión.
++ Mejorar su capacidad de relación de conceptos y de expresión de los mismos.
++ Tomar conciencia de las limitaciones del concepto de población cuando tratamos de asignar un grado de amenaza a una especie.
++ Inferir posibles soluciones a la limitación anterior. 
 
  ## Instrucciones
 
-En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una serie de criterios para catalogar las especies en función de su grado de amenaza. [Aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021__2022/biblio/redlist_cats_crit_sp.pdf) podéis ver la guía de la UICN. En la misma se observa cómo los criterios relacionados con el área de distribución de las especies tienen un peso importante al definir las categorías más estrictas (en peligro crítico, extinta, etc.). 
+En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una serie de criterios para catalogar las especies en función de su grado de amenaza. [Aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021__2022/biblio/redlist_cats_crit_sp.pdf) puedes ver la guía de la UICN. En la misma se observa cómo los criterios relacionados con el área de distribución de las especies tienen un peso importante al definir las categorías más estrictas (en peligro crítico, extinta, etc.). Es decir, las especies con un área de distribución reducida reciben con gran probabilidad un riesgo de extinción alto. Sin embargo, recuerda que el mismo concepto de área de distribución es controvertido por ser "escalo-dependiente". Es decir, su definición cambia con la escala a la que lo veamos. En este ejercicio tendrás que reflexionar sobre todas estas cuestiones. Para ello usaremos un caso de estudio cuyo protagonista es la bonita planta que puedes ver a continuación: *Cypripedium calceolus*.
+
+
+
+[cypripedium]!()
+
+
+
+
+
+
+
+
+
+
 
 Los tres documentos anexos a esta tarea describen el estado de dos especies catalogadas como en peligro de extinción en España. En ellos se describe el estado demográfico de sus poblaciones en el pirineo español:
-+ [Seguimiento demográfico y estado de conservación de  y *Cypripedium calceolus* (Zapatito de la dama)](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021__2022/biblio/borderea_chouardii.pdf)
++ [Seguimiento demográfico y estado de conservación de *Borderea chouardii* y *Cypripedium calceolus* (Zapatito de la dama)](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021__2022/biblio/borderea_chouardii.pdf)
 
 + [Living at the Edge: local versus positional factors in the long -term population dynamics of an endangered orchid](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021__2022/biblio/cypripedium_calceolus.pdf)
 
