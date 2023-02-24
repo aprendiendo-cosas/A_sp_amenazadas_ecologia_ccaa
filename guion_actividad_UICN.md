@@ -32,9 +32,15 @@ Foto tomada de: https://www.orquideasibericas.info/
 
 El "zapatito de la dama" tiene un área de distribución bastante amplia en todo el planeta. Puedes verlo en el mapa abajo:
 
-![mapa](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/imagenes/mapa.jpg)
+![mapa](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/imagenes/mapa.png)
+
+Mapa de distribución de *Cypripedium calceolus* obtenido a partir de [GBIF](https://www.gbif.org/species/2820517)
 
 
+
+Como puedes ver su área de distribución es amplísima. Ocupa una parte importante de centroeuropa (Alpes) y se extiende hasta el este de Asia y el este de Norteamérica. 
+
+Lo que nos interesa aquí de esta especie es que en España está considerada como en peligro de extinción. El gobierno aragonés (que es donde están la mayoría de sus poblaciones) catalogó esta especie usando los criterios de la UICN y le asignó la categoría anterior (aquí puedes ver el informe que elaboró en 2004). Sin embargo
 
 Los tres documentos anexos a esta tarea describen el estado de dos especies catalogadas como en peligro de extinción en España. En ellos se describe el estado demográfico de sus poblaciones en el pirineo español:
 + [Seguimiento demográfico y estado de conservación de *Borderea chouardii* y *Cypripedium calceolus* (Zapatito de la dama)](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2021__2022/biblio/borderea_chouardii.pdf)
