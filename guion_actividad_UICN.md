@@ -26,15 +26,13 @@ En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una 
 
 
 
-[cypripedium]!()
+![cypripedium](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/imagenes/cypripedium.jpg)
 
+Foto tomada de: https://www.orquideasibericas.info/
 
+El "zapatito de la dama" tiene un área de distribución bastante amplia en todo el planeta. Puedes verlo en el mapa abajo:
 
-
-
-
-
-
+![mapa](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/imagenes/mapa.jpg)
 
 
 
