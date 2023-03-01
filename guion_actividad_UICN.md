@@ -52,9 +52,9 @@ Teniendo en cuenta lo descrito más arriba y combinándolo con el concepto de me
 + Justificar porqué *Cypripedium calceolus* tiene la categoría de amenaza de "en peligro de extinción" en España.
 + Proponer una alternativa a la asignación de categorías de amenaza usando límites administrativos como sustitutos (malos) de áreas de distribución de poblaciones. Quizás [este](https://blog.creaf.cat/es/coneixement/el-lado-oculto-de-la-rareza/) artículo te inspire.
 
-Sube el texto [aquí](https://www.turnitin.com/t_submit.asp?r=93.0670108258504&svr=57&lang=es&aid=118302962) (Turnitin) en formato Word o LibreOffice. Pon especial atención en la redacción y en la justificación de tus respuestas. Añade las referencias bibliográficas que hayas usado para sustentar tu reflexión.
+Sube el texto [aquí](https://www.turnitin.com/t_submit.asp?r=91.3419355689005&svr=47&lang=es&aid=132276263) (Turnitin) en formato Word o LibreOffice. Pon especial atención en la redacción y en la justificación de tus respuestas. Añade las referencias bibliográficas que hayas usado para sustentar tu reflexión.
 
-Cuando haya concluido el plazo para enviar esta tarea (6 de marzo), las revisaré y las devolveré con anotaciones. Después tendrás otra oportunidad para mejorar el texto. En esta segunda iteración obtendrás la calificación definitiva. Sube esa segunda versión [aquí](https://www.turnitin.com/t_submit.asp?r=62.7020962414033&svr=41&lang=es&aid=118329988). Esta forma de evaluación pretende que percibas cómo tu trabajo mejora con críticas constructivas. Ambas versiones serán evaluadas según los criterios de la rúbrica anexa a la tarea.
+Cuando haya concluido el plazo para enviar esta tarea (6 de marzo), las revisaré y las devolveré con anotaciones. Después tendrás otra oportunidad para mejorar el texto. En esta segunda iteración obtendrás la calificación definitiva. Sube esa segunda versión [aquí](https://www.turnitin.com/t_submit.asp?r=91.3419355689005&svr=47&lang=es&aid=132440906). Esta forma de evaluación pretende que percibas cómo tu trabajo mejora con críticas constructivas. Ambas versiones serán evaluadas según los criterios de la rúbrica anexa a la tarea.
 
 
 
@@ -64,5 +64,5 @@ Las rúbricas se usan para cuantificar mejor los objetivos de aprendizaje de un 
 
 
 
-![mapa](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/imagenes/mapa.png)
+![mapa](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/imagenes/rubrica.png)
 
