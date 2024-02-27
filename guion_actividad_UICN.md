@@ -33,35 +33,21 @@ En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una 
 
 ![artemisia](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2022_2023/imagenes/artemisia.jpg)
 
-*Foto de Artemisia granatensis tomada de: https://naturalezavaria.blogspot.com/*
+*Foto de Artemisia granatensis tomada de: https://www.granadanatural.com/*
 
 Las dos especies viven en zonas montañosas (*Borderea* en el Pirineo aragonés y *Artemisia* en Sierra Nevada), pero su ecología es completamente diferente. En cualquier caso, esto no es relevante para esta tarea. El asunto clave es que de las dos especies hay una en la que la asignación del criterio de amenaza es discutible. En los dos casos se cumplen los criterios de la UICN para darles la categoría de amenaza que tienen. Pero en una de las especies hay una circunstancia que permite cuestionar la asignación realizada. La idea es que identifiques en cuál de las dos especies se da esta situación. Para ello tienes a continuación la siguiente información:
 + Descripción del estado demográfico y categoría de amenaza de la especie *Borderea chouardii*. En este documento hay también información de otra especie. Lee solo lo correspondiente a *Borderea*
 + Descripción del estado demográfico y categoría de amenaza de las especie *Artemisia granatensis*:
   + Atlas y libro rojo de la flora vascular amenazada de España.
   + Ficha descriptiva de *Artemisia granatensis*, por Joaquín Molero et al.  
++ [Este](https://blog.creaf.cat/es/coneixement/el-lado-oculto-de-la-rareza/) texto habla de situaciones parecidas a las que estamos abordando aquí. 
 
+Teniendo en cuenta lo descrito más arriba y combinándolo con lo que hemos visto en clase, tienes que escribir un texto de unas dos páginas que aborde los siguientes aspectos:
 
-+ Las categorías de amenaza requieren una escala espacial de aplicación: En teoría vimos cómo el área de distribución era un concepto un poco escurridizo. ¿Forman todos los individuos de *Cypripedium calceolus* del mundo parte de la misma población?. Si no es así, ¿dónde ponemos el límite?. El Gobierno de Aragón considera que el límite está en donde acaban sus competencias. Es decir, define un límite administrativo. Asigna una categoría de amenaza a todas las especies que hay dentro de su territorio. El gobierno catalán (donde también se encuentra esta especie) hace lo mismo. Y el español asigna una categoría de amenaza a nuestra especie en España usando sus límites administrativos. Al hacer esto estamos asumiendo que los límites de las poblaciones de las especies coinciden con los límites administrativos. Esto no parece muy sensato porque las especies no entienden de límites administrativos...
-
-Imagino que ahora mismo estarás un poco perdido/a y preguntándote qué hay que hacer en este ejercicio. No temas, ahora vienen las preguntas.
-
-Teniendo en cuenta lo descrito más arriba y combinándolo con el concepto de metapoblación que hemos visto en clase, tienes que escribir un texto de unas dos páginas que aborde los siguientes aspectos:
-
-+ Justificar porqué *Cypripedium calceolus* tiene la categoría de amenaza de "en peligro de extinción" en España.
-+ Proponer una alternativa a la asignación de categorías de amenaza usando límites administrativos como sustitutos (malos) de áreas de distribución de poblaciones. Quizás [este](https://blog.creaf.cat/es/coneixement/el-lado-oculto-de-la-rareza/) artículo te inspire.
++ Proponer en cuál de las dos catalogaciones de las especies objetivo hay algo cuestionable. La pista más importante es que, en uno de los dos casos, la especie no está realmente amenazada de extinción aunque cumpla los criterios de la UICN para ser considerada como tal. 
++ Descripción de las razones que mueven tu propuesta.
 
 Sube el texto [aquí](https://www.turnitin.com/t_submit.asp?r=91.3419355689005&svr=47&lang=es&aid=132276263) (Turnitin) en formato Word o LibreOffice. Pon especial atención en la redacción y en la justificación de tus respuestas. Añade las referencias bibliográficas que hayas usado para sustentar tu reflexión.
 
-Cuando haya concluido el plazo para enviar esta tarea (6 de marzo), las revisaré y las devolveré con anotaciones. Después tendrás otra oportunidad para mejorar el texto. En esta segunda iteración obtendrás la calificación definitiva. Sube esa segunda versión [aquí](https://www.turnitin.com/t_submit.asp?r=91.3419355689005&svr=47&lang=es&aid=132440906). Esta forma de evaluación pretende que percibas cómo tu trabajo mejora con críticas constructivas. Ambas versiones serán evaluadas según los criterios de la rúbrica anexa a la tarea.
-
-
-
-## Rúbrica
-
-Las rúbricas se usan para cuantificar mejor los objetivos de aprendizaje de un acto docente. Analízala con detalle para saber cuáles serán los criterios que usaré en la evaluación del material que presentes.
-
-
-
-![mapa](https://raw.githubusercontent.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2022_2023/imagenes/rubrica.png)
+Iré revisando las entregas que vayáis realizando y pasaré comentarios con mis impresiones. 
 
