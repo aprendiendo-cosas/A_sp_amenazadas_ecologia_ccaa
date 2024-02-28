@@ -22,16 +22,16 @@ Los objetivos específicos de aprendizaje son:
 
  ## Instrucciones
 
-En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una serie de criterios para catalogar las especies en función de su grado de amenaza. [Aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2022_2023/biblio/redlist_cats_crit_sp.pdf) puedes ver la guía de la UICN. En la misma se observa cómo los criterios relacionados con el área de distribución de las especies tienen un peso importante al definir las categorías más estrictas (en peligro crítico, extinta, etc.). Es decir, las especies con un área de distribución reducida reciben con gran probabilidad un riesgo de extinción alto. Sin embargo, que una especie tenga un área de distribución reducida, ¿implica necesariamente que esté amenazada? En este ejercicio tendrás que reflexionar sobre todas estas cuestiones. Para ello usaremos un caso de estudio con dos especies que tienen un área de distribución pequeña por razones diferentes. Las dos están en peligro de extinción según los criterios de la UICN: *Borderea chouardii* y *Artemisia granatensis*.
+En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una serie de criterios para catalogar las especies en función de su grado de amenaza. [Aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/biblio/redlist_cats_crit_sp.pdf) puedes ver la guía de la UICN. En la misma se observa cómo los criterios relacionados con el área de distribución de las especies tienen un peso importante al definir las categorías más estrictas (en peligro crítico, extinta, etc.). Es decir, las especies con un área de distribución reducida reciben con gran probabilidad un riesgo de extinción alto. Sin embargo, que una especie tenga un área de distribución reducida, ¿implica necesariamente que esté amenazada? En este ejercicio tendrás que reflexionar sobre todas estas cuestiones. Para ello usaremos un caso de estudio con dos especies que tienen un área de distribución pequeña por razones diferentes. Las dos están en peligro de extinción según los criterios de la UICN: *Borderea chouardii* y *Artemisia granatensis*.
 
 
 
-![borderea](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2022_2023/imagenes/borderea.jpg)
+![borderea](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/imagenes/borderea.jpg)
 
 *Foto de Borderea chouardii tomada de: https://naturalezavaria.blogspot.com/*
 
 
-![artemisia](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2022_2023/imagenes/artemisia.jpg)
+![artemisia](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/imagenes/artemisia.jpg)
 
 *Foto de Artemisia granatensis tomada de: https://www.granadanatural.com/*
 
