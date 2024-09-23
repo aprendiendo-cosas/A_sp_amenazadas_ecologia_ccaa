@@ -35,17 +35,16 @@ En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una 
 
 
 
-![quebranta](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/imagenes/quebrantahuesos.jpg)
+![quebranta](https://raw.githubusercontent.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/master/imagenes/quebrantahuesos.jpg)
 
-*Foto de Artemisia granatensis tomada de: https://www.granadanatural.com/*
+*Foto del quebrantahuesos tomada de Wikipedia*
 
 
 
-Las dos especies viven en zonas montañosas (*Borderea* en el Pirineo aragonés y *Artemisia* en Sierra Nevada), pero su ecología es completamente diferente. En cualquier caso, esto no es relevante para esta tarea. El asunto clave es que de las dos especies hay una en la que la asignación del criterio de amenaza es discutible. En los dos casos se cumplen los criterios de la UICN para darles la categoría de amenaza que tienen. Pero en una de las especies hay una circunstancia que permite cuestionar la asignación realizada. La idea es que identifiques en cuál de las dos especies se da esta situación. Para ello tienes a continuación la siguiente información:
+Las dos especies viven en zonas montañosas (*Borderea* en el Pirineo aragonés y *Artemisia* en Sierra Nevada), pero obviamente su ecología es completamente diferente. En cualquier caso, esto no es relevante para esta tarea. El asunto clave es que de las dos especies hay una en la que la asignación del criterio de amenaza es discutible (en el sentido de debatible). En los dos casos se cumplen los criterios de la UICN para darles la categoría de amenaza que tienen. Pero en una de las especies hay una circunstancia que permite cuestionar la asignación realizada. La idea es que identifiques en cuál de las dos especies se da esta situación. Para ello tienes a continuación la siguiente información:
 + [Descripción](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2023_2024/biblio/borderea_chouardii.pdf) del estado demográfico y categoría de amenaza de la especie *Borderea chouardii*. En este documento hay también información de otra especie. Lee solo lo correspondiente a *Borderea*
-+ Descripción del estado demográfico y categoría de amenaza de las especie *Artemisia granatensis*:
-  + [Atlas y libro rojo](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2023_2024/biblio/artemisia_granatensis_1.pdf) de la flora vascular amenazada de España.
-  + [Ficha descriptiva](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2023_2024/biblio/artemisia_granatensis_2.pdf) de *Artemisia granatensis*, por Joaquín Molero et al.  
++ Descripción del estado demográfico y categoría de amenaza de las especie *Gypaetus barbatus*:
+  + [Libro rojo de las aves de España](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/biblio/libro_rojo_aves.pdf) de la flora vascular amenazada de España. La ficha con el quebrantahuesos está en la página 125. No te asustes, no tienes que leer todo el libro, solo la ficha de la especie que estamos estudiando. 
 + [Este](https://blog.creaf.cat/es/coneixement/el-lado-oculto-de-la-rareza/) texto habla de situaciones parecidas a las que estamos abordando aquí. 
 
 Teniendo en cuenta lo descrito más arriba y combinándolo con lo que hemos visto en clase, tienes que escribir un texto de unas dos páginas que aborde los siguientes aspectos:
