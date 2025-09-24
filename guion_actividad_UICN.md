@@ -25,25 +25,25 @@ Los objetivos específicos de aprendizaje son:
 
  ## Instrucciones
 
-En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una serie de criterios para catalogar las especies en función de su grado de amenaza. [Aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2025_2026/biblio/redlist_cats_crit_sp.pdf) puedes ver la guía de la UICN. En la misma se observa cómo los criterios relacionados con el área de distribución de las especies tienen un peso importante al definir las categorías más estrictas (en peligro crítico, extinta, etc.). Es decir, las especies con un área de distribución reducida reciben con gran probabilidad un riesgo de extinción alto. Sin embargo, que una especie tenga un área de distribución reducida, ¿implica necesariamente que esté amenazada? En este ejercicio tendrás que reflexionar sobre todas estas cuestiones. Para ello usaremos un caso de estudio con dos especies que tienen un área de distribución pequeña por razones diferentes. Las dos están en peligro de extinción según los criterios de la UICN: *Borderea chouardii* y *Gypaetus barbatus* (quebrantahuesos).
+En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una serie de criterios para catalogar las especies en función de su grado de amenaza. [Aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2025-2026/biblio/redlist_cats_crit_sp.pdf) puedes ver la guía de la UICN. En la misma se observa cómo los criterios relacionados con el área de distribución de las especies tienen un peso importante al definir las categorías más estrictas (en peligro crítico, extinta, etc.). Es decir, las especies con un área de distribución reducida reciben con gran probabilidad un riesgo de extinción alto. Sin embargo, que una especie tenga un área de distribución reducida, ¿implica necesariamente que esté amenazada? En este ejercicio tendrás que reflexionar sobre todas estas cuestiones. Para ello usaremos un caso de estudio con dos especies que tienen un área de distribución pequeña por razones diferentes. Las dos están en peligro de extinción según los criterios de la UICN: *Borderea chouardii* y *Gypaetus barbatus* (quebrantahuesos).
 
 
 
-![borderea](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2025_2026/imagenes/borderea.jpg)
+![borderea](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2025-2026/imagenes/borderea.jpg)
 
 *Foto de Borderea chouardii tomada de: https://naturalezavaria.blogspot.com/*
 
 
 
 
-![quebranta](https://raw.githubusercontent.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2025_2026/imagenes/quebrantahuesos.jpg)
+![quebranta](https://raw.githubusercontent.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2025-2026/imagenes/quebrantahuesos.jpg)
 
 *Foto del quebrantahuesos tomada de Wikipedia*
 
 
 
 Las dos especies viven en zonas montañosas, pero obviamente su ecología es completamente diferente. En cualquier caso, esto no es relevante para esta tarea. El asunto clave es que de las dos especies hay una en la que la asignación del criterio de amenaza es discutible (en el sentido de debatible). En los dos casos se cumplen los criterios de la UICN para darles la categoría de amenaza que tienen. Pero en una de las especies hay una circunstancia que permite cuestionar la asignación realizada. La idea es que identifiques en cuál de las dos especies se da esta situación. Para ello tienes a continuación la siguiente información:
-+ [Descripción](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2025_2026/biblio/borderea_chouardii.pdf) del estado demográfico y categoría de amenaza de la especie *Borderea chouardii*. En este documento hay también información de otra especie. Lee solo lo correspondiente a *Borderea*
++ [Descripción](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2025-2026/biblio/borderea_chouardii.pdf) del estado demográfico y categoría de amenaza de la especie *Borderea chouardii*. En este documento hay también información de otra especie. Lee solo lo correspondiente a *Borderea*
 + Descripción del estado demográfico y categoría de amenaza de las especie *Gypaetus barbatus*. En el [libro rojo de las aves de España](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/biblio/libro_rojo_aves.pdf) puedes ver el estado de conservación de esta especie. La ficha con el quebrantahuesos está en la página 125. No te asustes, no tienes que leer todo el libro, solo la ficha de la especie que estamos estudiando. 
 + [Este](https://blog.creaf.cat/es/coneixement/el-lado-oculto-de-la-rareza/) texto habla de situaciones parecidas a las que estamos abordando aquí. 
 
@@ -72,7 +72,7 @@ A continuación se muestran los comentarios y reflexiones realizados por los est
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/archive/refs/tags/2025-2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
