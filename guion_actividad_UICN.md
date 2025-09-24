@@ -25,31 +25,29 @@ Los objetivos específicos de aprendizaje son:
 
  ## Instrucciones
 
-En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una serie de criterios para catalogar las especies en función de su grado de amenaza. [Aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2024_2025/biblio/redlist_cats_crit_sp.pdf) puedes ver la guía de la UICN. En la misma se observa cómo los criterios relacionados con el área de distribución de las especies tienen un peso importante al definir las categorías más estrictas (en peligro crítico, extinta, etc.). Es decir, las especies con un área de distribución reducida reciben con gran probabilidad un riesgo de extinción alto. Sin embargo, que una especie tenga un área de distribución reducida, ¿implica necesariamente que esté amenazada? En este ejercicio tendrás que reflexionar sobre todas estas cuestiones. Para ello usaremos un caso de estudio con dos especies que tienen un área de distribución pequeña por razones diferentes. Las dos están en peligro de extinción según los criterios de la UICN: *Borderea chouardii* y *Gypaetus barbatus* (quebrantahuesos).
+En la sesión general sobre poblaciones hablamos de cómo la UICN ha creado una serie de criterios para catalogar las especies en función de su grado de amenaza. [Aquí](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2025_2026/biblio/redlist_cats_crit_sp.pdf) puedes ver la guía de la UICN. En la misma se observa cómo los criterios relacionados con el área de distribución de las especies tienen un peso importante al definir las categorías más estrictas (en peligro crítico, extinta, etc.). Es decir, las especies con un área de distribución reducida reciben con gran probabilidad un riesgo de extinción alto. Sin embargo, que una especie tenga un área de distribución reducida, ¿implica necesariamente que esté amenazada? En este ejercicio tendrás que reflexionar sobre todas estas cuestiones. Para ello usaremos un caso de estudio con dos especies que tienen un área de distribución pequeña por razones diferentes. Las dos están en peligro de extinción según los criterios de la UICN: *Borderea chouardii* y *Gypaetus barbatus* (quebrantahuesos).
 
 
 
-![borderea](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2024_2025/imagenes/borderea.jpg)
+![borderea](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2025_2026/imagenes/borderea.jpg)
 
 *Foto de Borderea chouardii tomada de: https://naturalezavaria.blogspot.com/*
 
 
 
 
-![quebranta](https://raw.githubusercontent.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2024_2025/imagenes/quebrantahuesos.jpg)
+![quebranta](https://raw.githubusercontent.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2025_2026/imagenes/quebrantahuesos.jpg)
 
 *Foto del quebrantahuesos tomada de Wikipedia*
 
 
 
 Las dos especies viven en zonas montañosas, pero obviamente su ecología es completamente diferente. En cualquier caso, esto no es relevante para esta tarea. El asunto clave es que de las dos especies hay una en la que la asignación del criterio de amenaza es discutible (en el sentido de debatible). En los dos casos se cumplen los criterios de la UICN para darles la categoría de amenaza que tienen. Pero en una de las especies hay una circunstancia que permite cuestionar la asignación realizada. La idea es que identifiques en cuál de las dos especies se da esta situación. Para ello tienes a continuación la siguiente información:
-+ [Descripción](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2024_2025/biblio/borderea_chouardii.pdf) del estado demográfico y categoría de amenaza de la especie *Borderea chouardii*. En este documento hay también información de otra especie. Lee solo lo correspondiente a *Borderea*
++ [Descripción](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/2025_2026/biblio/borderea_chouardii.pdf) del estado demográfico y categoría de amenaza de la especie *Borderea chouardii*. En este documento hay también información de otra especie. Lee solo lo correspondiente a *Borderea*
 + Descripción del estado demográfico y categoría de amenaza de las especie *Gypaetus barbatus*. En el [libro rojo de las aves de España](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/raw/master/biblio/libro_rojo_aves.pdf) puedes ver el estado de conservación de esta especie. La ficha con el quebrantahuesos está en la página 125. No te asustes, no tienes que leer todo el libro, solo la ficha de la especie que estamos estudiando. 
 + [Este](https://blog.creaf.cat/es/coneixement/el-lado-oculto-de-la-rareza/) texto habla de situaciones parecidas a las que estamos abordando aquí. 
 
 Teniendo en cuenta lo descrito más arriba y combinándolo con lo que hemos visto en la parte teórica sobre carcterización de poblaciones, discutiremos en clase la siguiente cuestión:
-
-
 
 
 > ¿En cuál de las dos catalogaciones de las especies objetivo hay algo cuestionable?. La pista más importante es que, en uno de los dos casos, la especie no está realmente amenazada de extinción aunque cumpla los criterios de la UICN para ser considerada como tal. 
@@ -58,11 +56,17 @@ Teniendo en cuenta lo descrito más arriba y combinándolo con lo que hemos vist
 
 ## Resultados
 
-En esta sección escribiré los resultados de la actividad que realizaremos en clase.
+A continuación se muestran los comentarios y reflexiones realizados por los estudiantes en esta actividad:
 
-
-
-
++ En primer lugar se pone el foco en la forma en la que se reproducen las dos especies estudiadas. Se hipotetiza que si ambas especies producen mucha descendencia, puede que tener un número bajo de individuos en la población no sea un problema. Por ejemplo, un árbol que produce muchas semillas puede asegurar su supervivencia.
++ A continuación se incorpora al discurso el papel que juegan las condiciones del medio para que vivan las especies. Concretamente se habla de la especificidad de las condiciones en las que viven algunas especies. Viven en lugares particulares (ej. paredones rocosos). Al conjunto de condiciones ambientales en las que puede vivir una especie le denominamos nicho ecológico. Las especies que viven en unas condiciones muy específicas son especialistas (y especialitas también...). Nuestras dos especies son así. *Borderea* vive en paredones rocosos y el quebrantahuesos se alimenta del tuétano de los huesos de grandes vertebrados.
++ A continuación alguien incorpora el concepto de migración. El quebrantahuesos puede migrar y la *Borderea* no. Esto diferencia un poco la capacidad de mantenimiento de la población de las epecies. Resulta tentador decir aquí que la anomalía en la catalogación de en peligro crítico está en el quebrantahuesos. Pero seguimos.
++ Alguien pone de manifiesto algo que se muestra claramente en los textos distribuidos en clase: la población de *Borderea* es estable. Aunque haya pocos individuos, se reproduce con normalidad y no parece tener problemas de supervivencia en el futuro. El quebrantahuesos no tiene una población estable en la actualidad y, sobre todo, viene de una situación en la que estaba sometido a fuertes amenazas (afección por veneno, caza furtiva, etc.). Dicho de otra forma, el nicho ecológico del quebrantahuesos es más amplio que su distribución actual. Tiene capacidad de ocupar otros espacios diferentes.
++ No obstante, el quebrantahuesos tiene varias poblaciones y *Borderea* solo una.
++ Empezamos a constatar que *Borderea* está protegida porque es exclusiva de un lugar concreto. Si esa población desaparece, lo hace la especie (-1000 de aura). 
++ Todo lo anterior nos permite concluir que la *Borderea* es la que, estando catalogada como en peligro de extincióin, no está tan mal. Es decir, su estatus de amenaza es cuestionable (un poco. No seremos nosotros los que cuestionemos al gobierno de Aragón). 
++ Ante la duda de algún estudiante, fingimos una conversación con las especies. A la *Borderea* le da igual estar amenazada. Sus poblaciones son saludables y se reproducen bien. Al quebrantahuesos le gusta la idea de estar protegido porque eso asegura que haya financiación para planes de recuperación de sus poblaciones. 
++ Alguien pregunta ¿por qué mantenemos a la borderea como amenazada, bro? Por precaución. Si hay una perturbación que afecta a la población natural, disponemos de semillas en jardines botánicos y en bancos de germoplasma. Tenemos eso porque la especie está catalogada como en peligro de extinción. 
 
 
 
